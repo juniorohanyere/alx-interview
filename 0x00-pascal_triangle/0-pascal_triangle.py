@@ -2,6 +2,7 @@
 '''Pascal's triangle representation
 '''
 
+
 def pascal_triangle(n):
     '''returns a list of integers representing the pascal's triangle of a given
     number

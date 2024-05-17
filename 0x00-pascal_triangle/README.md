@@ -1,1 +1,1 @@
-# Making Change
+# Demonstrating Pascal's triangle
